@@ -104,7 +104,7 @@ h1{
 }
 
 /* input foco preencher label */
-.form__input:not(::placeholder).form__input:not(:focus)+ .form__label{
+.form__input:not(:placeholder-shown).form__input:not(:focus)+ .form__label{
     top: -.5rem;
     left: .8rem;
     font-size: var(--small-font-size);
