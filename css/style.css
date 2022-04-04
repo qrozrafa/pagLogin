@@ -1,0 +1,16 @@
+/* GOOGLE FONTS */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+
+/* VARIAVEIS CSS */
+:root{
+    /* Cores */
+    --first-color: #1A73E8;
+    --input-color: #80868B;
+    --border-color: #DADCE0;
+
+    /* FONTE E TIPOGRAFIA */
+    --body-font: 'Roboto', sans-serif;
+    --normal-font-size: 1rem;
+    --small-font-size: .75rem;
+}
